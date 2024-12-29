@@ -1,6 +1,6 @@
 # Data-Visualization-challenge
 
-Utilizing Pandas, Matplotlib and ScyPy to analyze trail data for the following:
+## Utilizing Pandas, Matplotlib and ScyPy to analyze trail data for the following:
 
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
